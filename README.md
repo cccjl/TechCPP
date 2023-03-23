@@ -26,7 +26,7 @@
 * [volatile static const extern等关键字](./problems/volatile,static,const,extern等关键字.md) 
 * [宏定义和展开、内联函数区别](./problems/宏定义和展开、内联函数区别.md)
 * 常用库函数实现
-    * malloc,strcpy,strcmp的实现，常用库函数实现，哪些库函数属于高危函数
+    * [malloc,strcpy,strcmp的实现，常用库函数实现，哪些库函数属于高危函数](./problems/malloc,strcpy,strcmp的实现，常用库函数实现，哪些库函数属于高危函数.md)
 * [STL原理及实现](./problems/STL原理及实现.md)
 * [虚函数的作用和实现原理，什么是虚函数,有什么作用?](./problems/虚函数的作用和实现原理，什么是虚函数,有什么作用.md)
     * [纯虚函数，为什么需要纯虚函数？](./problems/纯虚函数，为什么需要纯虚函数.md)
